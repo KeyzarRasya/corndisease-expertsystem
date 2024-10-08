@@ -8,7 +8,6 @@ public class Question {
 
     public Question() {
         this.sc = new Scanner(System.in);
-        // Add sample questions with codes
         qCode.put("1", "Is Chlorotic Colored Leaves?");
         qCode.put("6", "Affected leaves look wilted?");
         qCode.put("11", "Small brown or yellow spot on the leaf surface?");
