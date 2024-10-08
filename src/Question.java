@@ -27,7 +27,7 @@ public class Question {
             answers = sc.nextLine();
             if (answers.equals("1")) {
                 this.answer = q;
-                break;  // Exit once a 'Yes' answer is given
+                break;
             }
         }
     }
